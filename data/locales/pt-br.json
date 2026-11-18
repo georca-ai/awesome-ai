@@ -1,0 +1,36 @@
+{
+  "page": {
+    "title": "Awesome AI: ferramentas de IA",
+    "intro": "Uma seleção de ferramentas de IA por caso de uso. Cada item leva ao site ou repositório oficial.",
+    "contents": "Sumário",
+    "contribute": "Como contribuir"
+  },
+  "categories": {
+    "writing": "Escrita e assistentes de uso geral",
+    "coding": "Programação",
+    "research": "Busca e pesquisa",
+    "image": "Imagem e design",
+    "media": "Áudio e vídeo",
+    "automation": "Produtividade e automação"
+  },
+  "tools": {
+    "chatgpt": "Escreva e revise textos, explore ideias e faça perguntas complementares.",
+    "claude": "Analise documentos longos e reescreva rascunhos com base em orientações específicas.",
+    "gemini": "Faça perguntas sobre textos e imagens ou transforme anotações em um primeiro rascunho.",
+    "copilot": "Receba sugestões de código e faça perguntas dentro do editor.",
+    "cursor": "Explore a base de código e receba sugestões de alterações coordenadas em vários arquivos.",
+    "continue": "Configure a assistência de programação com o modelo que preferir.",
+    "perplexity": "Pesquise na web e confira a resposta pelos links das fontes.",
+    "notebooklm": "Faça perguntas e prepare anotações de estudo usando as fontes que você reuniu.",
+    "elicit": "Encontre artigos científicos e reúna os resultados em uma tabela comparativa.",
+    "firefly": "Crie conceitos visuais e preencha ou substitua áreas selecionadas de uma imagem.",
+    "ideogram": "Crie imagens com texto integrado para cartazes e peças gráficas.",
+    "comfyui": "Monte fluxos reutilizáveis de geração de imagens em um editor de nós.",
+    "whisper": "Transcreva gravações localmente com um modelo de fala de código aberto.",
+    "elevenlabs": "Transforme roteiros em narrações e produza áudio dublado.",
+    "runway": "Gere clipes de vídeo a partir de instruções em texto ou imagens estáticas.",
+    "notion": "Resuma anotações e esboce documentos no seu espaço de trabalho do Notion.",
+    "zapier": "Adicione etapas de classificação ou resumo de textos a automações entre aplicativos.",
+    "n8n": "Conecte aplicativos, APIs e modelos de linguagem em um editor visual de fluxos."
+  }
+}

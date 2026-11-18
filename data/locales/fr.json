@@ -1,0 +1,36 @@
+{
+  "page": {
+    "title": "Awesome AI — outils d’IA",
+    "intro": "Une sélection d’outils d’IA par usage. Chaque entrée renvoie vers le site ou le dépôt officiel.",
+    "contents": "Sommaire",
+    "contribute": "Contribuer"
+  },
+  "categories": {
+    "writing": "Rédaction et assistants généralistes",
+    "coding": "Programmation",
+    "research": "Recherche et documentation",
+    "image": "Image et design",
+    "media": "Audio et vidéo",
+    "automation": "Productivité et automatisation"
+  },
+  "tools": {
+    "chatgpt": "Rédigez et révisez des textes, explorez des idées et posez des questions complémentaires.",
+    "claude": "Analysez de longs documents et retravaillez des brouillons selon des consignes précises.",
+    "gemini": "Posez des questions sur des textes et des images ou transformez des notes en brouillon.",
+    "copilot": "Obtenez des suggestions de code et posez vos questions dans votre éditeur.",
+    "cursor": "Parcourez un projet et obtenez des propositions de modifications sur plusieurs fichiers.",
+    "continue": "Configurez votre assistant de programmation avec le modèle de votre choix.",
+    "perplexity": "Effectuez une recherche sur le Web et vérifiez la réponse en consultant ses sources.",
+    "notebooklm": "Posez des questions et préparez des fiches à partir de vos sources.",
+    "elicit": "Trouvez des articles scientifiques et regroupez leurs résultats dans un tableau comparatif.",
+    "firefly": "Générez des pistes visuelles et remplissez ou remplacez des zones sélectionnées dans une image.",
+    "ideogram": "Créez des images intégrant du texte pour des affiches et des visuels.",
+    "comfyui": "Créez des flux réutilisables de génération d’images avec un éditeur de nœuds.",
+    "whisper": "Transcrivez des enregistrements en local avec un modèle de reconnaissance vocale open source.",
+    "elevenlabs": "Transformez des scripts en voix off et produisez des pistes doublées.",
+    "runway": "Générez de courts clips vidéo à partir de consignes textuelles ou d’images fixes.",
+    "notion": "Résumez des notes et rédigez des brouillons dans votre espace Notion.",
+    "zapier": "Ajoutez des étapes de classement ou de résumé de textes à vos automatisations entre applications.",
+    "n8n": "Reliez des applications, des API et des modèles de langage dans un éditeur visuel."
+  }
+}

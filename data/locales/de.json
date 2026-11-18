@@ -1,0 +1,36 @@
+{
+  "page": {
+    "title": "Awesome AI: KI-Werkzeuge",
+    "intro": "Eine Auswahl von KI-Werkzeugen nach Einsatzzweck. Jeder Eintrag führt zur offiziellen Website oder zum Repository.",
+    "contents": "Inhalt",
+    "contribute": "Mitmachen"
+  },
+  "categories": {
+    "writing": "Schreiben und vielseitige Assistenten",
+    "coding": "Programmieren",
+    "research": "Suche und Recherche",
+    "image": "Bild und Design",
+    "media": "Audio und Video",
+    "automation": "Produktivität und Automatisierung"
+  },
+  "tools": {
+    "chatgpt": "Entwirf und überarbeite Texte, sammle Ideen und stelle Rückfragen.",
+    "claude": "Arbeite lange Dokumente durch und überarbeite Entwürfe anhand konkreter Hinweise.",
+    "gemini": "Stelle Fragen zu Texten und Bildern oder erstelle aus Notizen einen ersten Entwurf.",
+    "copilot": "Erhalte Codevorschläge und stelle Fragen direkt im Editor.",
+    "cursor": "Durchsuche eine Codebasis und lass dir zusammenhängende Änderungen über mehrere Dateien hinweg vorschlagen.",
+    "continue": "Richte eine Programmierhilfe mit einem Modell deiner Wahl ein.",
+    "perplexity": "Suche im Web und prüfe die Antwort anhand der verlinkten Quellen.",
+    "notebooklm": "Stelle Fragen zu deinen gesammelten Quellen und erstelle Lernnotizen daraus.",
+    "elicit": "Finde relevante Fachartikel und übertrage ihre Ergebnisse in eine Vergleichstabelle.",
+    "firefly": "Erstelle Bildentwürfe und fülle oder ersetze ausgewählte Bildbereiche.",
+    "ideogram": "Erstelle Bilder mit integrierter Schrift für Plakate und Grafiken.",
+    "comfyui": "Erstelle wiederverwendbare Abläufe zur Bilderzeugung in einem Knoten-Editor.",
+    "whisper": "Transkribiere Aufnahmen lokal mit einem quelloffenen Spracherkennungsmodell.",
+    "elevenlabs": "Verwandle Skripte in gesprochene Kommentare und erstelle synchronisierte Tonspuren.",
+    "runway": "Erstelle kurze Videoclips aus Textanweisungen oder Standbildern.",
+    "notion": "Fasse Notizen zusammen und entwirf Dokumente in deinem Notion-Arbeitsbereich.",
+    "zapier": "Ergänze appübergreifende Automatisierungen um Schritte zur Textklassifizierung oder Zusammenfassung.",
+    "n8n": "Verbinde Apps, APIs und Sprachmodelle in einem visuellen Workflow-Editor."
+  }
+}

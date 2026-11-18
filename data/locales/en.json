@@ -1,0 +1,36 @@
+{
+  "page": {
+    "title": "Awesome AI",
+    "intro": "A curated list of AI tools organized by what you want to do. Each entry links to the official site or repository.",
+    "contents": "Contents",
+    "contribute": "Contribute"
+  },
+  "categories": {
+    "writing": "Writing and general assistants",
+    "coding": "Coding",
+    "research": "Search and research",
+    "image": "Images and design",
+    "media": "Audio and video",
+    "automation": "Productivity and automation"
+  },
+  "tools": {
+    "chatgpt": "Draft and revise text, brainstorm ideas, and ask follow-up questions.",
+    "claude": "Work through long documents and rewrite drafts with specific feedback.",
+    "gemini": "Ask questions about text and images or turn notes into a first draft.",
+    "copilot": "Get inline code suggestions and ask questions inside your editor.",
+    "cursor": "Navigate a codebase in an editor that can propose coordinated edits across files.",
+    "continue": "Use configurable coding assistance with your choice of model.",
+    "perplexity": "Search the web and follow source links to check the answer.",
+    "notebooklm": "Ask questions and make study notes using the sources you collect.",
+    "elicit": "Find relevant research papers and extract findings into a comparison table.",
+    "firefly": "Generate image concepts and fill or replace selected areas of an image.",
+    "ideogram": "Create images that incorporate text for posters and graphics.",
+    "comfyui": "Build reusable image generation workflows with a node editor.",
+    "whisper": "Transcribe audio recordings locally using an open-source speech model.",
+    "elevenlabs": "Turn scripts into spoken narration and produce dubbed audio.",
+    "runway": "Generate short video clips from text prompts or still images.",
+    "notion": "Summarize notes and draft documents within your Notion workspace.",
+    "zapier": "Add steps that classify or summarize text to automations across apps.",
+    "n8n": "Connect apps, APIs, and language models in a visual workflow editor."
+  }
+}

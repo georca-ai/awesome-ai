@@ -1,0 +1,68 @@
+# Awesome AI — أدوات الذكاء الاصطناعي
+
+[English](../../README.md) · [简体中文](../zh-cn/README.md) · [繁體中文](../zh-tw/README.md) · [日本語](../ja/README.md) · [한국어](../ko/README.md) · [Español](../es/README.md) · [Português (Brasil)](../pt-br/README.md) · [Français](../fr/README.md) · [Deutsch](../de/README.md) · **العربية**
+
+<div dir="rtl" lang="ar">
+
+مجموعة مختارة من أدوات الذكاء الاصطناعي مرتّبة حسب الاستخدام. يقود كل بند إلى الموقع الرسمي أو مستودع المشروع.
+
+## المحتويات
+
+- [الكتابة والمساعدات العامة](#category-writing)
+- [البرمجة](#category-coding)
+- [البحث والاستقصاء](#category-research)
+- [الصور والتصميم](#category-image)
+- [الصوت والفيديو](#category-media)
+- [الإنتاجية والأتمتة](#category-automation)
+
+<a name="category-writing"></a>
+
+## الكتابة والمساعدات العامة
+
+- [ChatGPT](https://chatgpt.com/) — اكتب المسودات وراجعها، واستكشف الأفكار واطرح أسئلة متابعة.
+- [Claude](https://claude.com/product/overview) — راجع المستندات الطويلة وأعد صياغة المسودات وفق ملاحظات محددة.
+- [Gemini](https://gemini.google.com/) — اطرح أسئلة عن النصوص والصور أو حوّل الملاحظات إلى مسودة أولى.
+
+<a name="category-coding"></a>
+
+## البرمجة
+
+- [GitHub Copilot](https://github.com/features/copilot) — احصل على اقتراحات لإكمال الشيفرة واطرح أسئلة داخل المحرر.
+- [Cursor](https://cursor.com/) — تصفّح قاعدة الشيفرة واحصل على اقتراحات لتعديلات منسّقة عبر عدة ملفات.
+- [Continue](https://github.com/continuedev/continue) — اضبط مساعد البرمجة باستخدام النموذج الذي تختاره.
+
+<a name="category-research"></a>
+
+## البحث والاستقصاء
+
+- [Perplexity](https://www.perplexity.ai/) — ابحث في الويب وتتبّع روابط المصادر للتحقق من الإجابة.
+- [NotebookLM](https://notebook.google.com/) — اطرح أسئلة وأعدّ ملاحظات دراسية بالاعتماد على المصادر التي جمعتها.
+- [Elicit](https://elicit.com/) — اعثر على أبحاث ذات صلة واستخرج نتائجها في جدول للمقارنة.
+
+<a name="category-image"></a>
+
+## الصور والتصميم
+
+- [Adobe Firefly](https://firefly.adobe.com/) — أنشئ تصوّرات بصرية واملأ أجزاء محددة من الصورة أو استبدلها.
+- [Ideogram](https://ideogram.ai/) — أنشئ صورًا تتضمن نصوصًا لاستخدامها في الملصقات والتصاميم.
+- [ComfyUI](https://github.com/Comfy-Org/ComfyUI) — أنشئ مسارات عمل قابلة لإعادة الاستخدام لتوليد الصور عبر محرّر العُقد.
+
+<a name="category-media"></a>
+
+## الصوت والفيديو
+
+- [Whisper](https://github.com/openai/whisper) — حوّل التسجيلات الصوتية إلى نص محليًا باستخدام نموذج مفتوح المصدر للتعرّف على الكلام.
+- [ElevenLabs](https://elevenlabs.io/) — حوّل النصوص إلى سرد صوتي وأنشئ مسارات صوتية مدبلجة.
+- [Runway](https://runway.com/) — أنشئ مقاطع فيديو قصيرة من تعليمات نصية أو صور ثابتة.
+
+<a name="category-automation"></a>
+
+## الإنتاجية والأتمتة
+
+- [Notion AI](https://www.notion.com/product/ai) — لخّص الملاحظات وأعدّ مسودات المستندات داخل مساحة عمل Notion.
+- [Zapier AI](https://zapier.com/ai) — أضف خطوات لتصنيف النصوص أو تلخيصها ضمن عمليات الأتمتة بين التطبيقات.
+- [n8n](https://n8n.io/) — اربط التطبيقات وواجهات البرمجة ونماذج اللغة في محرّر مرئي لمسارات العمل.
+
+[المساهمة](../../CONTRIBUTING.md)
+
+</div>

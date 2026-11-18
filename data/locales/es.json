@@ -1,0 +1,36 @@
+{
+  "page": {
+    "title": "Awesome AI: herramientas de IA",
+    "intro": "Una selección de herramientas de IA por caso de uso. Cada entrada enlaza al sitio o repositorio oficial.",
+    "contents": "Índice",
+    "contribute": "Cómo contribuir"
+  },
+  "categories": {
+    "writing": "Redacción y asistentes generales",
+    "coding": "Programación",
+    "research": "Búsqueda e investigación",
+    "image": "Imagen y diseño",
+    "media": "Audio y vídeo",
+    "automation": "Productividad y automatización"
+  },
+  "tools": {
+    "chatgpt": "Redacta y revisa textos, explora ideas y haz preguntas de seguimiento.",
+    "claude": "Revisa documentos largos y reescribe borradores siguiendo indicaciones concretas.",
+    "gemini": "Haz preguntas sobre textos e imágenes o convierte apuntes en un primer borrador.",
+    "copilot": "Obtén sugerencias de código y haz preguntas desde el editor.",
+    "cursor": "Explora una base de código y recibe propuestas de cambios coordinados en varios archivos.",
+    "continue": "Configura la asistencia de programación con el modelo que elijas.",
+    "perplexity": "Busca en la web y consulta las fuentes para comprobar la respuesta.",
+    "notebooklm": "Haz preguntas y prepara apuntes de estudio con las fuentes que recopiles.",
+    "elicit": "Encuentra artículos científicos y reúne sus resultados en una tabla comparativa.",
+    "firefly": "Genera conceptos visuales y rellena o sustituye zonas seleccionadas de una imagen.",
+    "ideogram": "Crea imágenes con texto integrado para carteles y gráficos.",
+    "comfyui": "Construye flujos reutilizables de generación de imágenes con un editor de nodos.",
+    "whisper": "Transcribe grabaciones de forma local con un modelo de voz de código abierto.",
+    "elevenlabs": "Convierte guiones en narraciones habladas y produce audio doblado.",
+    "runway": "Genera clips de vídeo a partir de indicaciones de texto o imágenes fijas.",
+    "notion": "Resume notas y redacta documentos dentro de tu espacio de trabajo de Notion.",
+    "zapier": "Añade pasos de clasificación o resumen de textos a automatizaciones entre aplicaciones.",
+    "n8n": "Conecta aplicaciones, API y modelos de lenguaje en un editor visual de flujos."
+  }
+}
