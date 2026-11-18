@@ -82,6 +82,24 @@
       "category": "writing"
     },
     {
+      "id": "kimi",
+      "name": "Kimi",
+      "url": "https://www.kimi.com/",
+      "category": "writing"
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "url": "https://chat.deepseek.com/",
+      "category": "writing"
+    },
+    {
+      "id": "qwen-chat",
+      "name": "Qwen Chat",
+      "url": "https://chat.qwen.ai/",
+      "category": "writing"
+    },
+    {
       "id": "copilot",
       "name": "GitHub Copilot",
       "url": "https://github.com/features/copilot",
@@ -97,6 +115,48 @@
       "id": "continue",
       "name": "Continue",
       "url": "https://github.com/continuedev/continue",
+      "category": "coding"
+    },
+    {
+      "id": "codex",
+      "name": "OpenAI Codex",
+      "url": "https://github.com/openai/codex",
+      "category": "coding"
+    },
+    {
+      "id": "claude-code",
+      "name": "Claude Code",
+      "url": "https://code.claude.com/docs/en/overview",
+      "category": "coding"
+    },
+    {
+      "id": "antigravity",
+      "name": "Google Antigravity",
+      "url": "https://antigravity.google/",
+      "category": "coding"
+    },
+    {
+      "id": "opencode",
+      "name": "OpenCode",
+      "url": "https://opencode.ai/",
+      "category": "coding"
+    },
+    {
+      "id": "v0",
+      "name": "v0",
+      "url": "https://v0.app/docs",
+      "category": "coding"
+    },
+    {
+      "id": "lovable",
+      "name": "Lovable",
+      "url": "https://docs.lovable.dev/introduction/welcome",
+      "category": "coding"
+    },
+    {
+      "id": "bolt",
+      "name": "Bolt.new",
+      "url": "https://bolt.new/",
       "category": "coding"
     },
     {
@@ -118,6 +178,24 @@
       "category": "research"
     },
     {
+      "id": "exa",
+      "name": "Exa",
+      "url": "https://exa.ai/",
+      "category": "research"
+    },
+    {
+      "id": "tavily",
+      "name": "Tavily",
+      "url": "https://www.tavily.com/",
+      "category": "research"
+    },
+    {
+      "id": "consensus",
+      "name": "Consensus",
+      "url": "https://consensus.app/",
+      "category": "research"
+    },
+    {
       "id": "firefly",
       "name": "Adobe Firefly",
       "url": "https://firefly.adobe.com/",
@@ -133,6 +211,24 @@
       "id": "comfyui",
       "name": "ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
+      "category": "image"
+    },
+    {
+      "id": "recraft",
+      "name": "Recraft",
+      "url": "https://www.recraft.ai/",
+      "category": "image"
+    },
+    {
+      "id": "figma-make",
+      "name": "Figma Make",
+      "url": "https://www.figma.com/make/",
+      "category": "image"
+    },
+    {
+      "id": "flux",
+      "name": "FLUX",
+      "url": "https://bfl.ai/",
       "category": "image"
     },
     {
@@ -154,6 +250,24 @@
       "category": "media"
     },
     {
+      "id": "kling",
+      "name": "Kling AI",
+      "url": "https://www.klingai.com/",
+      "category": "media"
+    },
+    {
+      "id": "veo",
+      "name": "Veo",
+      "url": "https://deepmind.google/models/veo/",
+      "category": "media"
+    },
+    {
+      "id": "descript",
+      "name": "Descript",
+      "url": "https://www.descript.com/",
+      "category": "media"
+    },
+    {
       "id": "notion",
       "name": "Notion AI",
       "url": "https://www.notion.com/product/ai",
@@ -169,6 +283,30 @@
       "id": "n8n",
       "name": "n8n",
       "url": "https://n8n.io/",
+      "category": "automation"
+    },
+    {
+      "id": "dify",
+      "name": "Dify",
+      "url": "https://github.com/langgenius/dify",
+      "category": "automation"
+    },
+    {
+      "id": "flowise",
+      "name": "Flowise",
+      "url": "https://github.com/FlowiseAI/Flowise",
+      "category": "automation"
+    },
+    {
+      "id": "browser-use",
+      "name": "Browser Use",
+      "url": "https://github.com/browser-use/browser-use",
+      "category": "automation"
+    },
+    {
+      "id": "manus",
+      "name": "Manus",
+      "url": "https://manus.im/",
       "category": "automation"
     }
   ]
