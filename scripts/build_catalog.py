@@ -48,6 +48,17 @@ def relative_link(source, target):
     return Path(os.path.relpath(target, source.parent)).as_posix()
 
 
+def heading_fragment(title, used):
+    base = re.sub(r"[^\w -]", "", title.strip().lower()).replace(" ", "-")
+    fragment = base
+    suffix = 1
+    while fragment in used:
+        fragment = f"{base}-{suffix}"
+        suffix += 1
+    used.add(fragment)
+    return fragment
+
+
 def render(locale, locales, categories, tools, copy):
     page = page_path(locale)
     language_links = [
@@ -60,11 +71,15 @@ def render(locale, locales, categories, tools, copy):
     if locales[locale].get("rtl"):
         lines.extend([f'<div dir="rtl" lang="{locale}">', ""])
     lines.extend([labels["intro"], "", f"## {labels['contents']}", ""])
+    used_fragments = set()
+    heading_fragment(labels["title"], used_fragments)
+    heading_fragment(labels["contents"], used_fragments)
     for key in categories:
-        lines.append(f"- [{copy['categories'][key]}](#category-{key})")
+        title = copy["categories"][key]
+        fragment = heading_fragment(title, used_fragments)
+        lines.append(f"- [{title}](#{fragment})")
     for key in categories:
-        lines.extend(["", f'<a name="category-{key}"></a>', "",
-                      f"## {copy['categories'][key]}", ""])
+        lines.extend(["", f"## {copy['categories'][key]}", ""])
         for tool_id, tool in tools.items():
             if tool["category"] == key:
                 lines.append(f"- [{tool['name']}]({tool['url']}) — {copy['tools'][tool_id]}")

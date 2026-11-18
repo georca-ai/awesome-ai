@@ -6,14 +6,12 @@
 
 ## 目录
 
-- [写作与通用助手](#category-writing)
-- [编程](#category-coding)
-- [搜索与研究](#category-research)
-- [图像与设计](#category-image)
-- [音视频](#category-media)
-- [生产力与自动化](#category-automation)
-
-<a name="category-writing"></a>
+- [写作与通用助手](#写作与通用助手)
+- [编程](#编程)
+- [搜索与研究](#搜索与研究)
+- [图像与设计](#图像与设计)
+- [音视频](#音视频)
+- [生产力与自动化](#生产力与自动化)
 
 ## 写作与通用助手
 
@@ -21,15 +19,11 @@
 - [Claude](https://claude.com/product/overview) — 阅读长文档，根据具体反馈修改草稿。
 - [Gemini](https://gemini.google.com/) — 围绕文字和图片提问，或把笔记整理成初稿。
 
-<a name="category-coding"></a>
-
 ## 编程
 
 - [GitHub Copilot](https://github.com/features/copilot) — 在编辑器中获取代码补全建议，并围绕当前代码提问。
 - [Cursor](https://cursor.com/) — 在编辑器中浏览代码库，并获取跨文件的修改建议。
 - [Continue](https://github.com/continuedev/continue) — 配置适合自己的编程助手，并自行选择模型。
-
-<a name="category-research"></a>
 
 ## 搜索与研究
 
@@ -37,23 +31,17 @@
 - [NotebookLM](https://notebook.google.com/) — 基于自己收集的资料提问、整理学习笔记。
 - [Elicit](https://elicit.com/) — 寻找相关论文，并将研究结果提取到对照表中。
 
-<a name="category-image"></a>
-
 ## 图像与设计
 
 - [Adobe Firefly](https://firefly.adobe.com/) — 生成图像构思，并填充或替换图片中的选定区域。
 - [Ideogram](https://ideogram.ai/) — 生成带文字的海报和配图。
 - [ComfyUI](https://github.com/Comfy-Org/ComfyUI) — 用节点编辑器搭建可重复使用的图像生成流程。
 
-<a name="category-media"></a>
-
 ## 音视频
 
 - [Whisper](https://github.com/openai/whisper) — 用开源语音模型在本地转录录音。
 - [ElevenLabs](https://elevenlabs.io/) — 把文稿转成旁白，并制作配音音轨。
 - [Runway](https://runway.com/) — 用文字提示或静态图片生成短视频片段。
-
-<a name="category-automation"></a>
 
 ## 生产力与自动化
 

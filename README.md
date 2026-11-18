@@ -6,14 +6,12 @@ A curated list of AI tools organized by what you want to do. Each entry links to
 
 ## Contents
 
-- [Writing and general assistants](#category-writing)
-- [Coding](#category-coding)
-- [Search and research](#category-research)
-- [Images and design](#category-image)
-- [Audio and video](#category-media)
-- [Productivity and automation](#category-automation)
-
-<a name="category-writing"></a>
+- [Writing and general assistants](#writing-and-general-assistants)
+- [Coding](#coding)
+- [Search and research](#search-and-research)
+- [Images and design](#images-and-design)
+- [Audio and video](#audio-and-video)
+- [Productivity and automation](#productivity-and-automation)
 
 ## Writing and general assistants
 
@@ -21,15 +19,11 @@ A curated list of AI tools organized by what you want to do. Each entry links to
 - [Claude](https://claude.com/product/overview) — Work through long documents and rewrite drafts with specific feedback.
 - [Gemini](https://gemini.google.com/) — Ask questions about text and images or turn notes into a first draft.
 
-<a name="category-coding"></a>
-
 ## Coding
 
 - [GitHub Copilot](https://github.com/features/copilot) — Get inline code suggestions and ask questions inside your editor.
 - [Cursor](https://cursor.com/) — Navigate a codebase in an editor that can propose coordinated edits across files.
 - [Continue](https://github.com/continuedev/continue) — Use configurable coding assistance with your choice of model.
-
-<a name="category-research"></a>
 
 ## Search and research
 
@@ -37,23 +31,17 @@ A curated list of AI tools organized by what you want to do. Each entry links to
 - [NotebookLM](https://notebook.google.com/) — Ask questions and make study notes using the sources you collect.
 - [Elicit](https://elicit.com/) — Find relevant research papers and extract findings into a comparison table.
 
-<a name="category-image"></a>
-
 ## Images and design
 
 - [Adobe Firefly](https://firefly.adobe.com/) — Generate image concepts and fill or replace selected areas of an image.
 - [Ideogram](https://ideogram.ai/) — Create images that incorporate text for posters and graphics.
 - [ComfyUI](https://github.com/Comfy-Org/ComfyUI) — Build reusable image generation workflows with a node editor.
 
-<a name="category-media"></a>
-
 ## Audio and video
 
 - [Whisper](https://github.com/openai/whisper) — Transcribe audio recordings locally using an open-source speech model.
 - [ElevenLabs](https://elevenlabs.io/) — Turn scripts into spoken narration and produce dubbed audio.
 - [Runway](https://runway.com/) — Generate short video clips from text prompts or still images.
-
-<a name="category-automation"></a>
 
 ## Productivity and automation
 

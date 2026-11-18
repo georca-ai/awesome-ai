@@ -6,14 +6,12 @@ Une sélection d’outils d’IA par usage. Chaque entrée renvoie vers le site 
 
 ## Sommaire
 
-- [Rédaction et assistants généralistes](#category-writing)
-- [Programmation](#category-coding)
-- [Recherche et documentation](#category-research)
-- [Image et design](#category-image)
-- [Audio et vidéo](#category-media)
-- [Productivité et automatisation](#category-automation)
-
-<a name="category-writing"></a>
+- [Rédaction et assistants généralistes](#rédaction-et-assistants-généralistes)
+- [Programmation](#programmation)
+- [Recherche et documentation](#recherche-et-documentation)
+- [Image et design](#image-et-design)
+- [Audio et vidéo](#audio-et-vidéo)
+- [Productivité et automatisation](#productivité-et-automatisation)
 
 ## Rédaction et assistants généralistes
 
@@ -21,15 +19,11 @@ Une sélection d’outils d’IA par usage. Chaque entrée renvoie vers le site 
 - [Claude](https://claude.com/product/overview) — Analysez de longs documents et retravaillez des brouillons selon des consignes précises.
 - [Gemini](https://gemini.google.com/) — Posez des questions sur des textes et des images ou transformez des notes en brouillon.
 
-<a name="category-coding"></a>
-
 ## Programmation
 
 - [GitHub Copilot](https://github.com/features/copilot) — Obtenez des suggestions de code et posez vos questions dans votre éditeur.
 - [Cursor](https://cursor.com/) — Parcourez un projet et obtenez des propositions de modifications sur plusieurs fichiers.
 - [Continue](https://github.com/continuedev/continue) — Configurez votre assistant de programmation avec le modèle de votre choix.
-
-<a name="category-research"></a>
 
 ## Recherche et documentation
 
@@ -37,23 +31,17 @@ Une sélection d’outils d’IA par usage. Chaque entrée renvoie vers le site 
 - [NotebookLM](https://notebook.google.com/) — Posez des questions et préparez des fiches à partir de vos sources.
 - [Elicit](https://elicit.com/) — Trouvez des articles scientifiques et regroupez leurs résultats dans un tableau comparatif.
 
-<a name="category-image"></a>
-
 ## Image et design
 
 - [Adobe Firefly](https://firefly.adobe.com/) — Générez des pistes visuelles et remplissez ou remplacez des zones sélectionnées dans une image.
 - [Ideogram](https://ideogram.ai/) — Créez des images intégrant du texte pour des affiches et des visuels.
 - [ComfyUI](https://github.com/Comfy-Org/ComfyUI) — Créez des flux réutilisables de génération d’images avec un éditeur de nœuds.
 
-<a name="category-media"></a>
-
 ## Audio et vidéo
 
 - [Whisper](https://github.com/openai/whisper) — Transcrivez des enregistrements en local avec un modèle de reconnaissance vocale open source.
 - [ElevenLabs](https://elevenlabs.io/) — Transformez des scripts en voix off et produisez des pistes doublées.
 - [Runway](https://runway.com/) — Générez de courts clips vidéo à partir de consignes textuelles ou d’images fixes.
-
-<a name="category-automation"></a>
 
 ## Productivité et automatisation
 

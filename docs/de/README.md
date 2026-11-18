@@ -6,14 +6,12 @@ Eine Auswahl von KI-Werkzeugen nach Einsatzzweck. Jeder Eintrag führt zur offiz
 
 ## Inhalt
 
-- [Schreiben und vielseitige Assistenten](#category-writing)
-- [Programmieren](#category-coding)
-- [Suche und Recherche](#category-research)
-- [Bild und Design](#category-image)
-- [Audio und Video](#category-media)
-- [Produktivität und Automatisierung](#category-automation)
-
-<a name="category-writing"></a>
+- [Schreiben und vielseitige Assistenten](#schreiben-und-vielseitige-assistenten)
+- [Programmieren](#programmieren)
+- [Suche und Recherche](#suche-und-recherche)
+- [Bild und Design](#bild-und-design)
+- [Audio und Video](#audio-und-video)
+- [Produktivität und Automatisierung](#produktivität-und-automatisierung)
 
 ## Schreiben und vielseitige Assistenten
 
@@ -21,15 +19,11 @@ Eine Auswahl von KI-Werkzeugen nach Einsatzzweck. Jeder Eintrag führt zur offiz
 - [Claude](https://claude.com/product/overview) — Arbeite lange Dokumente durch und überarbeite Entwürfe anhand konkreter Hinweise.
 - [Gemini](https://gemini.google.com/) — Stelle Fragen zu Texten und Bildern oder erstelle aus Notizen einen ersten Entwurf.
 
-<a name="category-coding"></a>
-
 ## Programmieren
 
 - [GitHub Copilot](https://github.com/features/copilot) — Erhalte Codevorschläge und stelle Fragen direkt im Editor.
 - [Cursor](https://cursor.com/) — Durchsuche eine Codebasis und lass dir zusammenhängende Änderungen über mehrere Dateien hinweg vorschlagen.
 - [Continue](https://github.com/continuedev/continue) — Richte eine Programmierhilfe mit einem Modell deiner Wahl ein.
-
-<a name="category-research"></a>
 
 ## Suche und Recherche
 
@@ -37,23 +31,17 @@ Eine Auswahl von KI-Werkzeugen nach Einsatzzweck. Jeder Eintrag führt zur offiz
 - [NotebookLM](https://notebook.google.com/) — Stelle Fragen zu deinen gesammelten Quellen und erstelle Lernnotizen daraus.
 - [Elicit](https://elicit.com/) — Finde relevante Fachartikel und übertrage ihre Ergebnisse in eine Vergleichstabelle.
 
-<a name="category-image"></a>
-
 ## Bild und Design
 
 - [Adobe Firefly](https://firefly.adobe.com/) — Erstelle Bildentwürfe und fülle oder ersetze ausgewählte Bildbereiche.
 - [Ideogram](https://ideogram.ai/) — Erstelle Bilder mit integrierter Schrift für Plakate und Grafiken.
 - [ComfyUI](https://github.com/Comfy-Org/ComfyUI) — Erstelle wiederverwendbare Abläufe zur Bilderzeugung in einem Knoten-Editor.
 
-<a name="category-media"></a>
-
 ## Audio und Video
 
 - [Whisper](https://github.com/openai/whisper) — Transkribiere Aufnahmen lokal mit einem quelloffenen Spracherkennungsmodell.
 - [ElevenLabs](https://elevenlabs.io/) — Verwandle Skripte in gesprochene Kommentare und erstelle synchronisierte Tonspuren.
 - [Runway](https://runway.com/) — Erstelle kurze Videoclips aus Textanweisungen oder Standbildern.
-
-<a name="category-automation"></a>
 
 ## Produktivität und Automatisierung
 

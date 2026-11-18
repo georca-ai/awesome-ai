@@ -49,6 +49,24 @@ class CatalogTests(unittest.TestCase):
         self.assertIn("chatgpt", result.stderr)
         self.assertFalse((self.root / "README.md").exists())
 
+    def test_contents_link_to_markdown_headings(self):
+        self.edit_json("locales/en.json", lambda data: data["categories"].update(
+            writing="Writing & Editing", coding="Writing & Editing",
+        ))
+        result = self.run_catalog()
+        self.assertEqual(result.returncode, 0, result.stderr)
+        fragments = {
+            "README.md": ["writing--editing", "writing--editing-1"],
+            "docs/zh-cn/README.md": ["写作与通用助手"],
+            "docs/ar/README.md": ["الكتابة-والمساعدات-العامة"],
+        }
+        for path, expected in fragments.items():
+            with self.subTest(path=path):
+                page = (self.root / path).read_text(encoding="utf-8")
+                self.assertNotIn('<a name=', page)
+                for fragment in expected:
+                    self.assertIn(f"](#{fragment})", page)
+
     def test_duplicate_tool(self):
         self.edit_json("catalog.json", lambda data: data["tools"].append(data["tools"][0]))
         result = self.run_catalog()
