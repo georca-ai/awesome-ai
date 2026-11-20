@@ -73,7 +73,3 @@ Official links for AI tools, grouped by what they do.
 - [Manus](https://manus.im/) — Hand off web research and get the findings back as a report.
 
 [Contribute](CONTRIBUTING.md)
-
----
-
-Maintained by [GEOrca](https://georca.com).
