@@ -52,6 +52,7 @@ Official links for AI tools, grouped by what they do.
 - [Recraft](https://www.recraft.ai/) — Make and edit vector graphics such as icons and illustrations.
 - [Figma Make](https://www.figma.com/make/) — Start with a prompt or a Figma design and turn it into a clickable prototype.
 - [FLUX](https://bfl.ai/) — Generate and edit images with Black Forest Labs models via an API.
+- [Kite](https://kite.new/) — Design screens with your team while AI agents like Claude or Cursor draw editable layers in the same file over MCP.
 
 ## Audio and video
 

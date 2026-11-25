@@ -52,6 +52,7 @@
 - [Recraft](https://www.recraft.ai/) — 產生和編輯向量插畫、圖示等設計素材。
 - [Figma Make](https://www.figma.com/make/) — 把提示詞或現有 Figma 設計稿變成互動原型。
 - [FLUX](https://bfl.ai/) — 透過 API 呼叫 Black Forest Labs 的模型產生和編輯影像。
+- [Kite](https://kite.new/) — 與團隊一起設計介面，Claude、Cursor 等 AI 代理透過 MCP 在同一檔案中繪製可編輯圖層。
 
 ## 音訊與影片
 

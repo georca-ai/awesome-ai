@@ -52,6 +52,7 @@
 - [Recraft](https://www.recraft.ai/) — 做矢量插画、图标，也能接着编辑。
 - [Figma Make](https://www.figma.com/make/) — 拿一张 Figma 设计稿或一段描述，做成能点的原型。
 - [FLUX](https://bfl.ai/) — Black Forest Labs 的图像模型，可通过 API 出图或改图。
+- [Kite](https://kite.new/) — 与团队一起设计界面，Claude、Cursor 等 AI 智能体通过 MCP 在同一文件中绘制可编辑图层。
 
 ## 音视频
 

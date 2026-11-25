@@ -52,6 +52,7 @@ Ferramentas de IA agrupadas por função, com links oficiais.
 - [Recraft](https://www.recraft.ai/) — Gere e edite ilustrações vetoriais, ícones e outros recursos gráficos.
 - [Figma Make](https://www.figma.com/make/) — Transforme instruções ou designs existentes do Figma em protótipos interativos.
 - [FLUX](https://bfl.ai/) — Gere e edite imagens com os modelos da Black Forest Labs por meio de uma API.
+- [Kite](https://kite.new/) — Desenhe telas com sua equipe enquanto agentes de IA como Claude ou Cursor criam camadas editáveis no mesmo arquivo via MCP.
 
 ## Áudio e vídeo
 

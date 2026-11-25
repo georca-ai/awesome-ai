@@ -52,6 +52,7 @@
 - [Recraft](https://www.recraft.ai/) — ベクターイラストやアイコンなどのデザイン素材を生成、編集する。
 - [Figma Make](https://www.figma.com/make/) — 指示文や既存のFigmaデザインから操作できるプロトタイプを作る。
 - [FLUX](https://bfl.ai/) — Black Forest LabsのモデルをAPIから使い、画像を生成、編集する。
+- [Kite](https://kite.new/) — チームと一緒に画面をデザインし、Claude や Cursor などの AI エージェントが MCP 経由で同じファイルに編集可能なレイヤーを描きます。
 
 ## 音声と動画
 

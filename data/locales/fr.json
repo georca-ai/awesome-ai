@@ -42,6 +42,7 @@
     "recraft": "Générez et modifiez des illustrations vectorielles, des icônes et d’autres ressources graphiques.",
     "figma-make": "Transformez des consignes ou des maquettes Figma en prototypes interactifs.",
     "flux": "Générez et modifiez des images via une API avec les modèles de Black Forest Labs.",
+    "kite": "Concevez des écrans avec votre équipe pendant que des agents IA comme Claude ou Cursor dessinent des calques modifiables dans le même fichier via MCP.",
     "whisper": "Transcrivez des enregistrements en local avec un modèle de reconnaissance vocale open source.",
     "elevenlabs": "Transformez des scripts en voix off et produisez des pistes doublées.",
     "runway": "Générez de courts clips vidéo à partir de consignes textuelles ou d’images fixes.",

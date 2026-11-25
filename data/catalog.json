@@ -232,6 +232,12 @@
       "category": "image"
     },
     {
+      "id": "kite",
+      "name": "Kite",
+      "url": "https://kite.new/",
+      "category": "image"
+    },
+    {
       "id": "whisper",
       "name": "Whisper",
       "url": "https://github.com/openai/whisper",

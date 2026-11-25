@@ -52,6 +52,7 @@ Herramientas de IA agrupadas por lo que hacen, con enlaces oficiales.
 - [Recraft](https://www.recraft.ai/) — Genera y edita ilustraciones vectoriales, iconos y otros recursos gráficos.
 - [Figma Make](https://www.figma.com/make/) — Convierte instrucciones o diseños existentes de Figma en prototipos interactivos.
 - [FLUX](https://bfl.ai/) — Genera y edita imágenes con los modelos de Black Forest Labs mediante una API.
+- [Kite](https://kite.new/) — Diseña pantallas con tu equipo mientras agentes de IA como Claude o Cursor dibujan capas editables en el mismo archivo mediante MCP.
 
 ## Audio y vídeo
 

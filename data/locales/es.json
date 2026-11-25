@@ -42,6 +42,7 @@
     "recraft": "Genera y edita ilustraciones vectoriales, iconos y otros recursos gráficos.",
     "figma-make": "Convierte instrucciones o diseños existentes de Figma en prototipos interactivos.",
     "flux": "Genera y edita imágenes con los modelos de Black Forest Labs mediante una API.",
+    "kite": "Diseña pantallas con tu equipo mientras agentes de IA como Claude o Cursor dibujan capas editables en el mismo archivo mediante MCP.",
     "whisper": "Transcribe grabaciones de forma local con un modelo de voz de código abierto.",
     "elevenlabs": "Convierte guiones en narraciones habladas y produce audio doblado.",
     "runway": "Genera clips de vídeo a partir de indicaciones de texto o imágenes fijas.",
