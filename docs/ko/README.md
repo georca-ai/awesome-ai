@@ -52,6 +52,7 @@
 - [Recraft](https://www.recraft.ai/) — 벡터 일러스트와 아이콘 등 디자인에 쓸 그래픽을 생성하고 편집한다.
 - [Figma Make](https://www.figma.com/make/) — 프롬프트나 기존 Figma 디자인으로 대화형 프로토타입을 만든다.
 - [FLUX](https://bfl.ai/) — API로 Black Forest Labs 모델을 호출해 이미지를 생성하고 편집한다.
+- [Kite](https://kite.new/) — 팀과 함께 화면을 디자인하고, Claude나 Cursor 같은 AI 에이전트가 MCP로 같은 파일에 편집 가능한 레이어를 그립니다.
 
 ## 오디오 및 영상
 

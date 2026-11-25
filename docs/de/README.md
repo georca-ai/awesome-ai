@@ -52,6 +52,7 @@ KI-Werkzeuge nach Einsatzgebiet, jeweils mit einem offiziellen Link.
 - [Recraft](https://www.recraft.ai/) — Vektorillustrationen, Symbole und weitere Grafiken für Designprojekte erzeugen und bearbeiten.
 - [Figma Make](https://www.figma.com/make/) — Aus Eingaben oder vorhandenen Figma-Entwürfen interaktive Prototypen erstellen.
 - [FLUX](https://bfl.ai/) — Bilder mit den Modellen von Black Forest Labs über eine API erzeugen und bearbeiten.
+- [Kite](https://kite.new/) — Gestalte Screens im Team, während KI-Agenten wie Claude oder Cursor per MCP bearbeitbare Ebenen in dieselbe Datei zeichnen.
 
 ## Audio und Video
 
